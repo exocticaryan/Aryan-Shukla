@@ -1,0 +1,45 @@
+                <div class="captured-card animate__animated animate__fadeInUp">
+                    <img src="Mountains.jpg" class="captured-media">
+                    <h3 class="captured-title"></h3>
+                    <p class="captured-description"></p>
+                </div>
+                <div class="captured-card animate__animated animate__fadeInUp">
+                    <img src="Street View.jpg" class="captured-media">
+                    <h3 class="captured-title"></h3>
+                    <p class="captured-description"></p>
+                </div>
+                <div class="captured-card animate__animated animate__fadeInUp">
+                    <img src="Sunset.jpg" class="captured-media">
+                    <h3 class="captured-title"></h3>
+                    <p class="captured-description"></p>
+                </div>
+                <div class="captured-card animate__animated animate__fadeInUp">
+                    <img src="Nature.jpg" class="captured-media">
+                    <h3 class="captured-title"></h3>
+                    <p class="captured-description"></p>
+                </div>
+                <div class="captured-card animate__animated animate__fadeInUp">
+                    <img src="View.jpg" class="captured-media">
+                    <h3 class="captured-title"></h3>
+                    <p class="captured-description"></p>
+                </div>
+                <div class="captured-card animate__animated animate__fadeInUp">
+                    <img src="Night.jpg" class="captured-media">
+                    <h3 class="captured-title"></h3>
+                    <p class="captured-description"></p>
+                </div>
+                <div class="captured-card animate__animated animate__fadeInUp">
+                    <img src="view2.jpg" class="captured-media">
+                    <h3 class="captured-title"></h3>
+                    <p class="captured-description"></p>
+                </div>
+                <div class="captured-card animate__animated animate__fadeInUp">
+                    <img src="cloudy.jpg" class="captured-media">
+                    <h3 class="captured-title"></h3>
+                    <p class="captured-description"></p>
+                </div>
+                <div class="captured-card animate__animated animate__fadeInUp">
+                    <img src="Moon2.jpg" class="captured-media">
+                    <h3 class="captured-title"></h3>
+                    <p class="captured-description"></p>
+                </div>
